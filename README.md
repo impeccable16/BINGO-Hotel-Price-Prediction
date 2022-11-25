@@ -8,3 +8,4 @@ Here we use many popular Machine Learning Algorithms like linear regression mode
 With the help of these predictions of Hotel price user can take decision about the booking of hotel in lesser time.
 
 The Dataset which is used in this project is taken from Kaggle.com. This Dataset contains the details of Hotel name , id , ratings , rooms availability, price, distance, city.
+in this project , I have trained and test the data using linear regression model
