@@ -1,6 +1,6 @@
 # BINGO-Hotel-Price-Prediction
 
-** 1.) ABSTRACT **
+**1.) ABSTRACT**
 
 The main function of hotels is to give visitors a place to stay, food to eat, refreshment to drink, and other such services and commodities. They do this by commercially providing items that are often furnished in homes but not available to those travelling away from home.
 To predict the price of a Hotel is a kind of a tricky job, making prediction easier I have used some of the Machine learning techniques that would examine the Hotel prices.
@@ -13,7 +13,8 @@ What we wish to design is a predictive Hotel Price which takes into account vari
 
 *keywords- ratings , predictive hotel price manager*
 
-2.) INTRODUCTION
+**2.) INTRODUCTION**
+
 Here we use many popular Machine Learning Algorithms like linear regression model, imported some importand libraries like pandas, numpy, matplotlib, sklearn, pathlib, etc. 
 
  By ‘HOTEL PRICE PREDICTION’ user can know about the price of Hotels in very early time.
