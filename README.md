@@ -1,5 +1,7 @@
 # BINGO-Hotel-Price-Prediction
-**1.) ABSTRACT **
+
+** 1.) ABSTRACT **
+
 The main function of hotels is to give visitors a place to stay, food to eat, refreshment to drink, and other such services and commodities. They do this by commercially providing items that are often furnished in homes but not available to those travelling away from home.
 To predict the price of a Hotel is a kind of a tricky job, making prediction easier I have used some of the Machine learning techniques that would examine the Hotel prices.
 For each individual or tourist who is moving from one place to another, hotels play a crucial part. If the services are poor, the
