@@ -1,0 +1,9 @@
+# BINGO: Hotel Price Prediction System 🚀
+# Usage: pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+pathlib
