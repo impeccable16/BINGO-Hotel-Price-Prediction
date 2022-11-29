@@ -3,6 +3,7 @@
 <p align="center">
 	<a href="#project-abstract">Project Abstract</a> |
 	<a href="project-introduction">Project Introduction</a> |
+	<a href="#installation">Installation</a> |
 	<a href="#motivation">Motivation</a> |
 	<a href="#final-verdicts">Final Verdicts</a> |
 	<a href="#commits">Commits</a> |
@@ -29,6 +30,24 @@ Here we took the dataset from Kaggle.com and used many popular Machine Learning 
 By ‘HOTEL PRICE PREDICTION’ user can know about the price of Hotels in very early time.
 With the help of these predictions of Hotel price user can take decision about the booking of hotel in lesser time. 
 The user will choose their current location and look for the nearest hotel from their current location considering price and ratings.
+
+### Installation
+
+* Clonning the repository into your local machine
+
+   ```
+   git clone https://github.com/impeccable16/BINGO-Hotel-Price-Prediction.git
+   ```
+* Moving inside the cloned directory
+   ```
+   cd BINGO-Hotel-Price-Prediction
+   ```
+* Installing the required dependencies
+   ```
+   python3 -m pip install -r requirements.txt
+   ```
+* Install [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) with Jupyter Notebook
+
 
 
 ### Motivation
