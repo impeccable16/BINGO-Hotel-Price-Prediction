@@ -5,9 +5,6 @@
 	<a href="project-introduction">Project Introduction</a> |
 	<a href="#installation">Installation</a> |
 	<a href="#motivation">Motivation</a> |
-	<a href="#final-verdicts">Final Verdicts</a> |
-	<a href="#commits">Commits</a> |
-	<a href="#links">Links</a>
 </p>
 
 
